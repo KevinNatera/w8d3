@@ -26,3 +26,12 @@
 .profile-info > p {
     margin: 20px 0;
 }
+
+.profile-nav li {
+    border-top: 1px solid lightgray;
+}
+
+.profile-nav li:last-child {
+    border-bottom: 1px solid lightgray;
+}
+

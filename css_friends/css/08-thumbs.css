@@ -1,2 +1,12 @@
 /* PHASE 2: Thumbs */
 
+.profile-friends {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.profile-friends > li {
+    margin: 5px;
+}
